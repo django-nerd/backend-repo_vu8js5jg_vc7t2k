@@ -1,13 +1,28 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [145] using StatReload
-INFO:     Started server process [147]
+INFO:     Started reloader process [188] using StatReload
+INFO:     Started server process [190]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:34420 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:34428 - "GET /api/inferno/circles HTTP/1.1" 200 OK
-INFO:     172.20.0.1:34428 - "GET /api/inferno/circles HTTP/1.1" 200 OK
-INFO:     172.20.0.1:46854 - "GET /api/inferno/circles HTTP/1.1" 200 OK
-INFO:     172.20.0.1:46854 - "GET /api/inferno/circles HTTP/1.1" 200 OK
-INFO:     172.20.0.1:34436 - "GET /api/inferno/circles HTTP/1.1" 200 OK
-INFO:     172.20.0.1:34436 - "GET /api/inferno/circles HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35438 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:35452 - "OPTIONS / HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35464 - "OPTIONS / HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35452 - "OPTIONS / HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35470 - "OPTIONS / HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35484 - "GET / HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35498 - "OPTIONS / HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35512 - "OPTIONS / HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35470 - "GET / HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35484 - "OPTIONS /api/inferno/circles HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35498 - "GET / HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35452 - "GET / HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35470 - "OPTIONS /api/inferno/circles HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35484 - "GET /api/inferno/circles HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35512 - "GET / HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35498 - "OPTIONS /api/inferno/circles HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35464 - "GET / HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35470 - "GET /api/inferno/circles HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35498 - "GET /api/inferno/circles HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35464 - "GET /api/inferno/circles HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35512 - "GET /api/inferno/circles HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35470 - "GET /api/inferno/circles HTTP/1.1" 200 OK
